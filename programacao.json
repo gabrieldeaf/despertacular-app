@@ -1,0 +1,766 @@
+{
+  "versao": 1,
+  "atualizado": "2026-10-14",
+  "dias": [
+    {
+      "sigla": "PRÉ",
+      "numero": "27·28",
+      "mes": "out",
+      "rotulo": "Pré-festival, 27 e 28 de outubro",
+      "datas": [
+        "2026-10-27",
+        "2026-10-28"
+      ],
+      "atividades": [
+        {
+          "inicio": "2026-10-27T08:00",
+          "hora": "27/out 08h",
+          "titulo": "Oficina LumoTV",
+          "categoria": "Oficina",
+          "local": "Aquário · Camilla Arnold e Ashley Kendall",
+          "imagens": [
+            {
+              "arquivo": "cartazes/oficina_lumotv.jpg",
+              "descricao": "Oficineiros da LumoTV: Camilla Arnold e Ashley Kendall"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-28T08:00",
+          "hora": "28/out 08h",
+          "titulo": "Oficina LumoTV",
+          "categoria": "Oficina",
+          "local": "Aquário · Camilla Arnold e Ashley Kendall",
+          "imagens": [
+            {
+              "arquivo": "cartazes/oficina_lumotv.jpg",
+              "descricao": "Oficineiros da LumoTV: Camilla Arnold e Ashley Kendall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sigla": "QUI",
+      "numero": "29",
+      "mes": "out",
+      "rotulo": "Quinta, 29 de outubro",
+      "datas": [
+        "2026-10-29"
+      ],
+      "atividades": [
+        {
+          "inicio": "2026-10-29T08:00",
+          "hora": "08h",
+          "titulo": "Conferência Despertacular",
+          "categoria": "Conferência",
+          "local": "Sala Marco Antônio Guimarães"
+        },
+        {
+          "inicio": "2026-10-29T12:00",
+          "hora": "12h",
+          "titulo": "Feira",
+          "categoria": "Feira",
+          "local": "Galpão de Artes"
+        },
+        {
+          "inicio": "2026-10-29T17:00",
+          "hora": "17h",
+          "titulo": "Exposições",
+          "categoria": "Exposições",
+          "local": "Mezanino e Praça Central"
+        },
+        {
+          "inicio": "2026-10-29T19:00",
+          "hora": "19h",
+          "titulo": "Convidado especial da abertura: Liisa",
+          "categoria": "Teatro",
+          "local": "Teatro Galpão · 30 minutos",
+          "imagens": [
+            {
+              "arquivo": "cartazes/teatro_liisa.jpg",
+              "descricao": "Cartaz de Liisa"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-29T19:45",
+          "hora": "19h45",
+          "titulo": "Cerimônia de Abertura do Festival",
+          "categoria": "Cerimonial",
+          "local": "Teatro Galpão"
+        }
+      ]
+    },
+    {
+      "sigla": "SEX",
+      "numero": "30",
+      "mes": "out",
+      "rotulo": "Sexta, 30 de outubro",
+      "datas": [
+        "2026-10-30"
+      ],
+      "atividades": [
+        {
+          "inicio": "2026-10-30T08:00",
+          "hora": "08h",
+          "titulo": "Credenciamento",
+          "categoria": "Credenciamento",
+          "local": "Bilheteria"
+        },
+        {
+          "inicio": "2026-10-30T09:00",
+          "hora": "09h",
+          "titulo": "Feira",
+          "categoria": "Feira",
+          "local": "Galpão de Artes"
+        },
+        {
+          "inicio": "2026-10-30T09:00",
+          "hora": "09h",
+          "titulo": "Exposições",
+          "categoria": "Exposições",
+          "local": "Mezanino e Praça Central"
+        },
+        {
+          "inicio": "2026-10-30T09:00",
+          "hora": "09h",
+          "titulo": "Graffiti - Odrus",
+          "categoria": "Exposições",
+          "local": "Praça Central"
+        },
+        {
+          "inicio": "2026-10-30T09:00",
+          "hora": "09h",
+          "titulo": "Oficina - Festival em Ação: Organização, Equipe e Gestão",
+          "categoria": "Oficina",
+          "local": "Teatro de Bolso · Prof. David de Keyzer · carga 6h",
+          "imagens": [
+            {
+              "arquivo": "cartazes/oficina_david.jpg",
+              "descricao": "Cartaz da oficina com o Prof. David de Keyzer"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-30T10:00",
+          "hora": "10h",
+          "titulo": "Oficina - Hip Hop Deaf Power",
+          "categoria": "Oficina",
+          "local": "Praça Central · Profs. Victor e Cristiano · carga 2h",
+          "imagens": [
+            {
+              "arquivo": "cartazes/oficina_hiphop.jpg",
+              "descricao": "Cartaz da oficina Hip Hop Deaf Power"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-30T13:30",
+          "hora": "13h30",
+          "titulo": "Oficina - O sopro do gesto: a poética das formas animadas e encantamento pelo artista-docente",
+          "categoria": "Oficina",
+          "local": "Aquário · Profa. Natália Rigo · carga 4h",
+          "imagens": [
+            {
+              "arquivo": "cartazes/oficina_natalia.jpg",
+              "descricao": "Cartaz da oficina com a Profa. Natália Rigo"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-30T13:45",
+          "hora": "13h45",
+          "titulo": "Cine Despertacular",
+          "categoria": "Cinema",
+          "local": "Sala Marco Antônio Guimarães"
+        },
+        {
+          "inicio": "2026-10-30T15:30",
+          "hora": "15h30",
+          "titulo": "Espetáculo El Show de Chavi",
+          "categoria": "Teatro",
+          "local": "Teatro Galpão",
+          "imagens": [
+            {
+              "arquivo": "cartazes/teatro_chavi.jpg",
+              "descricao": "Cartaz de El Show de Chavi"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-30T15:30",
+          "hora": "15h30",
+          "titulo": "Espetáculo - Peter Pan na Terra do Nunca Ouve",
+          "categoria": "Teatro",
+          "local": "Sala Multiuso",
+          "imagens": [
+            {
+              "arquivo": "cartazes/teatro_peter_pan.jpg",
+              "descricao": "Cartaz de Peter Pan na Terra do Nunca Ouve"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-30T16:10",
+          "hora": "16h10",
+          "titulo": "Dança - Encruzilhada",
+          "categoria": "Dança",
+          "local": "Teatro Galpão",
+          "imagens": [
+            {
+              "arquivo": "cartazes/danca_encruzilhada.jpg",
+              "descricao": "Cartaz de Encruzilhada"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-30T16:10",
+          "hora": "16h10",
+          "titulo": "Espetáculo - Sangue Potiguara",
+          "categoria": "Teatro",
+          "local": "Sala Multiuso",
+          "imagens": [
+            {
+              "arquivo": "cartazes/teatro_sangue.jpg",
+              "descricao": "Cartaz de Sangue Potiguara"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-30T18:00",
+          "hora": "18h",
+          "titulo": "Espetáculo - Deixe-me ser Surda!",
+          "categoria": "Teatro",
+          "local": "Teatro Galpão",
+          "imagens": [
+            {
+              "arquivo": "cartazes/teatro_deixe_me.jpg",
+              "descricao": "Cartaz de Deixe-me ser Surda!"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-30T18:00",
+          "hora": "18h",
+          "titulo": "Espetáculo - Drogan Visual",
+          "categoria": "Teatro",
+          "local": "Sala Multiuso",
+          "imagens": [
+            {
+              "arquivo": "cartazes/teatro_drogan.jpg",
+              "descricao": "Cartaz de Drogan Visual"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-30T18:45",
+          "hora": "18h45",
+          "titulo": "Cine Despertacular (Reexibição)",
+          "categoria": "Cinema",
+          "local": "Sala Marco Antônio Guimarães"
+        },
+        {
+          "inicio": "2026-10-30T19:15",
+          "hora": "19h15",
+          "titulo": "Sarau - 6 artistas individuais",
+          "categoria": "Sarau",
+          "local": "Praça Central",
+          "imagens": [
+            {
+              "arquivo": "cartazes/sarau_alan.jpg",
+              "descricao": "Alan Arellano, México"
+            },
+            {
+              "arquivo": "cartazes/sarau_emanoel.jpg",
+              "descricao": "Emanoel Sobral, Paraíba"
+            },
+            {
+              "arquivo": "cartazes/sarau_ignacio.jpg",
+              "descricao": "Ignacio Alvarez, Costa Rica"
+            },
+            {
+              "arquivo": "cartazes/sarau_ozge.jpg",
+              "descricao": "Özge Kalaylar, Turquia"
+            },
+            {
+              "arquivo": "cartazes/sarau_paulo.jpg",
+              "descricao": "Paulo César, Tocantins"
+            },
+            {
+              "arquivo": "cartazes/sarau_thais.jpg",
+              "descricao": "Thais Regina, Distrito Federal"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-30T20:30",
+          "hora": "20h30",
+          "titulo": "Espetáculo - Língua da Terra",
+          "categoria": "Teatro",
+          "local": "Teatro Galpão",
+          "imagens": [
+            {
+              "arquivo": "cartazes/teatro_lingua.jpg",
+              "descricao": "Cartaz de Língua da Terra"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-30T20:30",
+          "hora": "20h30",
+          "titulo": "Espetáculo - Um Dedo bem dado",
+          "categoria": "Teatro",
+          "local": "Sala Multiuso",
+          "imagens": [
+            {
+              "arquivo": "cartazes/teatro_dedo.jpg",
+              "descricao": "Cartaz de Um Dedo bem dado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sigla": "SÁB",
+      "numero": "31",
+      "mes": "out",
+      "rotulo": "Sábado, 31 de outubro",
+      "datas": [
+        "2026-10-31"
+      ],
+      "atividades": [
+        {
+          "inicio": "2026-10-31T09:00",
+          "hora": "09h",
+          "titulo": "Graffiti - Odrus",
+          "categoria": "Exposições",
+          "local": "Praça Central"
+        },
+        {
+          "inicio": "2026-10-31T10:00",
+          "hora": "10h",
+          "titulo": "Feira",
+          "categoria": "Feira",
+          "local": "Galpão de Artes"
+        },
+        {
+          "inicio": "2026-10-31T10:00",
+          "hora": "10h",
+          "titulo": "Exposições",
+          "categoria": "Exposições",
+          "local": "Mezanino e Praça Central"
+        },
+        {
+          "inicio": "2026-10-31T13:30",
+          "hora": "13h30",
+          "titulo": "Oficina - Arte Feminista e Sarau das Manas",
+          "categoria": "Oficina",
+          "local": "Teatro de Bolso · Profa. Catharine Moreira · carga 4h",
+          "imagens": [
+            {
+              "arquivo": "cartazes/oficina_catharine.jpg",
+              "descricao": "Cartaz da oficina com a Profa. Catharine Moreira"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-31T13:30",
+          "hora": "13h30",
+          "titulo": "Oficina - Performance Visual de Ritmo em Língua de Sinais",
+          "categoria": "Oficina",
+          "local": "Aquário · Prof. Cristiano Monteiro · carga 4h",
+          "imagens": [
+            {
+              "arquivo": "cartazes/oficina_cristiano.jpg",
+              "descricao": "Cartaz da oficina com o Prof. Cristiano Monteiro"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-31T13:45",
+          "hora": "13h45",
+          "titulo": "Cine Despertacular",
+          "categoria": "Cinema",
+          "local": "Sala Marco Antônio Guimarães"
+        },
+        {
+          "inicio": "2026-10-31T15:30",
+          "hora": "15h30",
+          "titulo": "Espetáculo El Show de Chavi",
+          "categoria": "Teatro",
+          "local": "Teatro Galpão",
+          "imagens": [
+            {
+              "arquivo": "cartazes/teatro_chavi.jpg",
+              "descricao": "Cartaz de El Show de Chavi"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-31T15:30",
+          "hora": "15h30",
+          "titulo": "Espetáculo - Peter Pan na Terra do Nunca Ouve",
+          "categoria": "Teatro",
+          "local": "Sala Multiuso",
+          "imagens": [
+            {
+              "arquivo": "cartazes/teatro_peter_pan.jpg",
+              "descricao": "Cartaz de Peter Pan na Terra do Nunca Ouve"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-31T16:10",
+          "hora": "16h10",
+          "titulo": "Dança - Encruzilhada",
+          "categoria": "Dança",
+          "local": "Teatro Galpão",
+          "imagens": [
+            {
+              "arquivo": "cartazes/danca_encruzilhada.jpg",
+              "descricao": "Cartaz de Encruzilhada"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-31T16:10",
+          "hora": "16h10",
+          "titulo": "Espetáculo - Sangue Potiguara",
+          "categoria": "Teatro",
+          "local": "Sala Multiuso",
+          "imagens": [
+            {
+              "arquivo": "cartazes/teatro_sangue.jpg",
+              "descricao": "Cartaz de Sangue Potiguara"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-31T18:00",
+          "hora": "18h",
+          "titulo": "Espetáculo - Deixe-me ser Surda!",
+          "categoria": "Teatro",
+          "local": "Teatro Galpão",
+          "imagens": [
+            {
+              "arquivo": "cartazes/teatro_deixe_me.jpg",
+              "descricao": "Cartaz de Deixe-me ser Surda!"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-31T18:00",
+          "hora": "18h",
+          "titulo": "Espetáculo - Drogan Visual",
+          "categoria": "Teatro",
+          "local": "Sala Multiuso",
+          "imagens": [
+            {
+              "arquivo": "cartazes/teatro_drogan.jpg",
+              "descricao": "Cartaz de Drogan Visual"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-31T18:45",
+          "hora": "18h45",
+          "titulo": "Cine Despertacular (Reexibição)",
+          "categoria": "Cinema",
+          "local": "Sala Marco Antônio Guimarães"
+        },
+        {
+          "inicio": "2026-10-31T19:15",
+          "hora": "19h15",
+          "titulo": "Sarau - 6 artistas individuais",
+          "categoria": "Sarau",
+          "local": "Praça Central",
+          "imagens": [
+            {
+              "arquivo": "cartazes/sarau_alan.jpg",
+              "descricao": "Alan Arellano, México"
+            },
+            {
+              "arquivo": "cartazes/sarau_emanoel.jpg",
+              "descricao": "Emanoel Sobral, Paraíba"
+            },
+            {
+              "arquivo": "cartazes/sarau_ignacio.jpg",
+              "descricao": "Ignacio Alvarez, Costa Rica"
+            },
+            {
+              "arquivo": "cartazes/sarau_ozge.jpg",
+              "descricao": "Özge Kalaylar, Turquia"
+            },
+            {
+              "arquivo": "cartazes/sarau_paulo.jpg",
+              "descricao": "Paulo César, Tocantins"
+            },
+            {
+              "arquivo": "cartazes/sarau_thais.jpg",
+              "descricao": "Thais Regina, Distrito Federal"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-31T20:30",
+          "hora": "20h30",
+          "titulo": "Espetáculo - Língua da Terra",
+          "categoria": "Teatro",
+          "local": "Teatro Galpão",
+          "imagens": [
+            {
+              "arquivo": "cartazes/teatro_lingua.jpg",
+              "descricao": "Cartaz de Língua da Terra"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-31T20:30",
+          "hora": "20h30",
+          "titulo": "Espetáculo - Um Dedo bem dado",
+          "categoria": "Teatro",
+          "local": "Sala Multiuso",
+          "imagens": [
+            {
+              "arquivo": "cartazes/teatro_dedo.jpg",
+              "descricao": "Cartaz de Um Dedo bem dado"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-31T22:30",
+          "hora": "22h30",
+          "titulo": "Festa Despertacular",
+          "categoria": "Festa",
+          "local": "Anexo BZ",
+          "ingresso": true
+        },
+        {
+          "inicio": null,
+          "hora": "A definir",
+          "titulo": "Entrevista dos artistas e convidados",
+          "categoria": "Comunicação",
+          "local": "Praça Central"
+        }
+      ]
+    },
+    {
+      "sigla": "DOM",
+      "numero": "1º",
+      "mes": "nov",
+      "rotulo": "Domingo, 1º de novembro",
+      "datas": [
+        "2026-11-01"
+      ],
+      "atividades": [
+        {
+          "inicio": "2026-11-01T12:00",
+          "hora": "12h",
+          "titulo": "Feira",
+          "categoria": "Feira",
+          "local": "Galpão de Artes"
+        },
+        {
+          "inicio": "2026-11-01T12:00",
+          "hora": "12h",
+          "titulo": "Exposições",
+          "categoria": "Exposições",
+          "local": "Mezanino e Praça Central"
+        },
+        {
+          "inicio": "2026-11-01T13:00",
+          "hora": "13h",
+          "titulo": "Graffiti - Odrus",
+          "categoria": "Exposições",
+          "local": "Praça Central"
+        },
+        {
+          "inicio": "2026-11-01T13:30",
+          "hora": "13h30",
+          "titulo": "Batalha da Rima",
+          "categoria": "Literatura",
+          "local": "Praça Central"
+        },
+        {
+          "inicio": "2026-11-01T18:00",
+          "hora": "18h",
+          "titulo": "Slam Despertacular",
+          "categoria": "Literatura",
+          "local": "Praça Central"
+        },
+        {
+          "inicio": "2026-11-01T20:30",
+          "hora": "20h30",
+          "titulo": "Abertura dos Portões & Início do Red Carpet (“Desfile”)",
+          "categoria": "Comunicação",
+          "local": "Sala Marco Antônio Guimarães"
+        },
+        {
+          "inicio": "2026-11-01T20:30",
+          "hora": "20h30",
+          "titulo": "Debate e Premiação de Festival de Cinema Surdo",
+          "categoria": "Cerimonial",
+          "local": "Sala Marco Antônio Guimarães"
+        }
+      ]
+    }
+  ],
+  "sessoes": [
+    {
+      "nome": "Sessão das 14h",
+      "resumo": "6 filmes · 1h14",
+      "filmes": [
+        {
+          "inicio": "14h00",
+          "duracao": "15 min",
+          "titulo": "Amei Te Ver",
+          "direcao": "Ricardo Cioni Garcia",
+          "genero": "Ficção"
+        },
+        {
+          "inicio": "14h15",
+          "duracao": "11 min",
+          "titulo": "O Milagre dos Sinais",
+          "direcao": "Amanda de Oliveira",
+          "genero": "Drama"
+        },
+        {
+          "inicio": "14h26",
+          "duracao": "10 min",
+          "titulo": "A chuva é importante em LIBRAS!",
+          "direcao": "Lucas Ramom",
+          "genero": "Animação",
+          "cartaz": {
+            "arquivo": "cartazes/filme_chuva.jpg",
+            "descricao": "Cartaz do filme A chuva é importante em LIBRAS!"
+          }
+        },
+        {
+          "inicio": "14h36",
+          "duracao": "07 min",
+          "titulo": "O Tempo",
+          "direcao": "Pablo Alves",
+          "genero": "Suspense"
+        },
+        {
+          "inicio": "14h43",
+          "duracao": "14 min",
+          "titulo": "A dor invisível",
+          "direcao": "Lourraynny Lima",
+          "genero": "Documentário"
+        },
+        {
+          "inicio": "14h57",
+          "duracao": "17 min",
+          "titulo": "Mãos Rapper",
+          "direcao": "Giuliano Robert",
+          "genero": "Documentário"
+        }
+      ]
+    },
+    {
+      "nome": "Sessão das 19h",
+      "resumo": "6 filmes · 1h37",
+      "filmes": [
+        {
+          "inicio": "19h00",
+          "duracao": "06 min",
+          "titulo": "Desperta!",
+          "direcao": "Gabriel Isaac",
+          "genero": "Suspense",
+          "cartaz": {
+            "arquivo": "cartazes/filme_desperta.jpg",
+            "descricao": "Cartaz do filme Desperta!"
+          }
+        },
+        {
+          "inicio": "19h06",
+          "duracao": "15 min",
+          "titulo": "Há Sinais",
+          "direcao": "Édier William",
+          "genero": "Curta-metragem"
+        },
+        {
+          "inicio": "19h21",
+          "duracao": "20 min",
+          "titulo": "Justiça Silenciosa",
+          "direcao": "Lêo Russo",
+          "genero": "Ficção"
+        },
+        {
+          "inicio": "19h41",
+          "duracao": "16 min",
+          "titulo": "Entre Sinais e Marés",
+          "direcao": "João Gabriel Ferreira e João Gabriel Kowalski",
+          "genero": "Ficção",
+          "cartaz": {
+            "arquivo": "cartazes/filme_entre_sinais.jpg",
+            "descricao": "Cartaz do filme Entre Sinais e Marés"
+          }
+        },
+        {
+          "inicio": "19h57",
+          "duracao": "16 min",
+          "titulo": "Nunca Me Viram Gritar",
+          "direcao": "Luccas Araújo e Danilo Teixeira",
+          "genero": "Drama",
+          "cartaz": {
+            "arquivo": "cartazes/filme_nunca_me_viram.jpg",
+            "descricao": "Cartaz do filme Nunca Me Viram Gritar"
+          }
+        },
+        {
+          "inicio": "20h13",
+          "duracao": "24 min",
+          "titulo": "Não alimente os Cães",
+          "direcao": "Vini Poffo",
+          "genero": "Drama",
+          "cartaz": {
+            "arquivo": "cartazes/filme_nao_alimente.jpg",
+            "descricao": "Cartaz do filme Não alimente os Cães"
+          }
+        }
+      ]
+    }
+  ],
+  "festa": {
+    "atracoes": [
+      {
+        "nome": "DJ Aloss",
+        "cartaz": {
+          "arquivo": "cartazes/festa_aloss.jpg",
+          "descricao": "Cartaz de DJ Aloss na Night Despertacular"
+        }
+      },
+      {
+        "nome": "DJ Lenny",
+        "cartaz": {
+          "arquivo": "cartazes/festa_lenny.jpg",
+          "descricao": "Cartaz de DJ Lenny na Night Despertacular"
+        }
+      },
+      {
+        "nome": "DJ Mendelson",
+        "cartaz": {
+          "arquivo": "cartazes/festa_mendelson.jpg",
+          "descricao": "Cartaz de DJ Mendelson na Night Despertacular"
+        }
+      },
+      {
+        "nome": "Encruzilhando a Noite",
+        "cartaz": {
+          "arquivo": "cartazes/festa_encruzilhando.jpg",
+          "descricao": "Cartaz de Encruzilhando a Noite na Night Despertacular"
+        }
+      },
+      {
+        "nome": "Surds'Criar",
+        "cartaz": {
+          "arquivo": "cartazes/festa_surdscriar.jpg",
+          "descricao": "Cartaz de Surds'Criar na Night Despertacular"
+        }
+      }
+    ]
+  }
+}
