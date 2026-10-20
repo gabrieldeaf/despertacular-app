@@ -1,6 +1,6 @@
 {
-  "versao": 1,
-  "atualizado": "2026-10-14",
+  "versao": 2,
+  "atualizado": "2026-10-20",
   "dias": [
     {
       "sigla": "PRÉ",
@@ -616,14 +616,22 @@
           "duracao": "15 min",
           "titulo": "Amei Te Ver",
           "direcao": "Ricardo Cioni Garcia",
-          "genero": "Ficção"
+          "genero": "Ficção",
+          "cartaz": {
+            "arquivo": "cartazes/filme_amei_te_ver.jpg",
+            "descricao": "Cartaz do filme Amei Te Ver"
+          }
         },
         {
           "inicio": "14h15",
           "duracao": "11 min",
           "titulo": "O Milagre dos Sinais",
-          "direcao": "Amanda de Oliveira",
-          "genero": "Drama"
+          "direcao": "Amanda Gomes",
+          "genero": "Drama",
+          "cartaz": {
+            "arquivo": "cartazes/filme_milagre.jpg",
+            "descricao": "Cartaz do filme O Milagre dos Sinais"
+          }
         },
         {
           "inicio": "14h26",
@@ -641,21 +649,33 @@
           "duracao": "07 min",
           "titulo": "O Tempo",
           "direcao": "Pablo Alves",
-          "genero": "Suspense"
+          "genero": "Suspense",
+          "cartaz": {
+            "arquivo": "cartazes/filme_tempo.jpg",
+            "descricao": "Cartaz do filme O Tempo"
+          }
         },
         {
           "inicio": "14h43",
           "duracao": "14 min",
           "titulo": "A dor invisível",
           "direcao": "Lourraynny Lima",
-          "genero": "Documentário"
+          "genero": "Documentário",
+          "cartaz": {
+            "arquivo": "cartazes/filme_dor_invisivel.jpg",
+            "descricao": "Cartaz do filme A dor invisível"
+          }
         },
         {
           "inicio": "14h57",
           "duracao": "17 min",
           "titulo": "Mãos Rapper",
           "direcao": "Giuliano Robert",
-          "genero": "Documentário"
+          "genero": "Documentário",
+          "cartaz": {
+            "arquivo": "cartazes/filme_maos_rapper.jpg",
+            "descricao": "Cartaz do filme Mãos Rapper"
+          }
         }
       ]
     },
@@ -678,8 +698,12 @@
           "inicio": "19h06",
           "duracao": "15 min",
           "titulo": "Há Sinais",
-          "direcao": "Édier William",
-          "genero": "Curta-metragem"
+          "direcao": "Edier William",
+          "genero": "Drama",
+          "cartaz": {
+            "arquivo": "cartazes/filme_ha_sinais.jpg",
+            "descricao": "Cartaz do filme Há Sinais"
+          }
         },
         {
           "inicio": "19h21",
