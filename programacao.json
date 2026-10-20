@@ -1,6 +1,15 @@
 {
   "versao": 2,
   "atualizado": "2026-10-20",
+  "avisos": [
+    {
+      "id": "teste-1",
+      "titulo": "Teste de aviso",
+      "texto": "Se você está vendo esta mensagem, o pop-up de avisos está funcionando.",
+      "link": "",
+      "botao_link": ""
+    }
+  ],
   "dias": [
     {
       "sigla": "PRÉ",
