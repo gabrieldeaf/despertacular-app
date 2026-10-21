@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado": "2026-10-20",
+  "atualizado": "2026-10-21",
   "avisos": [],
   "dias": [
     {
@@ -711,7 +711,11 @@
           "duracao": "20 min",
           "titulo": "Justiça Silenciosa",
           "direcao": "Lêo Russo",
-          "genero": "Ficção"
+          "genero": "Ficção",
+          "cartaz": {
+            "arquivo": "cartazes/filme_justica.jpg",
+            "descricao": "Cartaz do filme Justiça Silenciosa"
+          }
         },
         {
           "inicio": "19h41",
