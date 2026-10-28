@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado": "2026-10-21",
+  "atualizado": "2026-10-28",
   "avisos": [],
   "dias": [
     {
@@ -55,7 +55,13 @@
           "hora": "08h",
           "titulo": "Conferência Despertacular",
           "categoria": "Conferência",
-          "local": "Sala Marco Antônio Guimarães"
+          "local": "Sala Marco Antônio Guimarães",
+          "imagens": [
+            {
+              "arquivo": "cartazes/conferencia.jpg",
+              "descricao": "Conferência Despertacular: Festival Despertacular e Feneis"
+            }
+          ]
         },
         {
           "inicio": "2026-10-29T12:00",
@@ -610,7 +616,7 @@
   "sessoes": [
     {
       "nome": "Sessão das 14h",
-      "resumo": "6 filmes · 1h14",
+      "resumo": "7 filmes · 1h43",
       "filmes": [
         {
           "inicio": "14h00",
@@ -676,6 +682,17 @@
           "cartaz": {
             "arquivo": "cartazes/filme_maos_rapper.jpg",
             "descricao": "Cartaz do filme Mãos Rapper"
+          }
+        },
+        {
+          "inicio": "15h14",
+          "duracao": "29 min",
+          "titulo": "Sordus",
+          "direcao": "Rafael Emil",
+          "genero": "Ficção · Cine especial",
+          "cartaz": {
+            "arquivo": "cartazes/filme_sordus.jpg",
+            "descricao": "Cartaz do filme Sordus"
           }
         }
       ]
