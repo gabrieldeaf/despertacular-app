@@ -886,6 +886,13 @@
         }
       },
       {
+        "nome": "Expressomos",
+        "cartaz": {
+          "arquivo": "cartazes/festa_expressomos.jpg",
+          "descricao": "Cartaz de Expressomos na Night Despertacular"
+        }
+      },
+      {
         "nome": "Surds'Criar",
         "cartaz": {
           "arquivo": "cartazes/festa_surdscriar.jpg",
