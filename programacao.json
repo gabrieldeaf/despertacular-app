@@ -14,8 +14,8 @@
       ],
       "atividades": [
         {
-          "inicio": "2026-10-27T08:00",
-          "hora": "27/out 08h",
+          "inicio": "2026-10-27T09:00",
+          "hora": "27/out 09h",
           "titulo": "Oficina LumoTV",
           "categoria": "Oficina",
           "local": "Aquário · Camilla Arnold e Ashley Kendall",
@@ -27,8 +27,8 @@
           ]
         },
         {
-          "inicio": "2026-10-28T08:00",
-          "hora": "28/out 08h",
+          "inicio": "2026-10-28T09:00",
+          "hora": "28/out 09h",
           "titulo": "Oficina LumoTV",
           "categoria": "Oficina",
           "local": "Aquário · Camilla Arnold e Ashley Kendall",
@@ -53,9 +53,48 @@
         {
           "inicio": "2026-10-29T08:00",
           "hora": "08h",
-          "titulo": "Conferência Despertacular",
+          "titulo": "Conferência Despertacular - Credenciamento",
           "categoria": "Conferência",
           "local": "Sala Marco Antônio Guimarães",
+          "imagens": [
+            {
+              "arquivo": "cartazes/conferencia.jpg",
+              "descricao": "Conferência Despertacular: Festival Despertacular e Feneis"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-29T09:00",
+          "hora": "09h",
+          "titulo": "Conferência - Abertura",
+          "categoria": "Conferência",
+          "local": "Sala Marco Antônio Guimarães",
+          "imagens": [
+            {
+              "arquivo": "cartazes/conferencia.jpg",
+              "descricao": "Conferência Despertacular: Festival Despertacular e Feneis"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-29T09:30",
+          "hora": "09h30",
+          "titulo": "Conferência - Mesa-redonda",
+          "categoria": "Conferência",
+          "local": "Sala Marco Antônio Guimarães · até 10h30",
+          "imagens": [
+            {
+              "arquivo": "cartazes/conferencia.jpg",
+              "descricao": "Conferência Despertacular: Festival Despertacular e Feneis"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-29T10:30",
+          "hora": "10h30",
+          "titulo": "Conferência - Apresentação do GT e debate sobre cada um dos 4 eixos",
+          "categoria": "Conferência",
+          "local": "Sala Marco Antônio Guimarães · até 12h",
           "imagens": [
             {
               "arquivo": "cartazes/conferencia.jpg",
@@ -69,6 +108,45 @@
           "titulo": "Feira",
           "categoria": "Feira",
           "local": "Galpão de Artes"
+        },
+        {
+          "inicio": "2026-10-29T13:30",
+          "hora": "13h30",
+          "titulo": "Conferência - Posters",
+          "categoria": "Conferência",
+          "local": "Sala Marco Antônio Guimarães · até 14h30",
+          "imagens": [
+            {
+              "arquivo": "cartazes/conferencia.jpg",
+              "descricao": "Conferência Despertacular: Festival Despertacular e Feneis"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-29T14:30",
+          "hora": "14h30",
+          "titulo": "Conferência - Debate continua",
+          "categoria": "Conferência",
+          "local": "Sala Marco Antônio Guimarães · até 16h",
+          "imagens": [
+            {
+              "arquivo": "cartazes/conferencia.jpg",
+              "descricao": "Conferência Despertacular: Festival Despertacular e Feneis"
+            }
+          ]
+        },
+        {
+          "inicio": "2026-10-29T16:00",
+          "hora": "16h",
+          "titulo": "Conferência - Proposta redação final",
+          "categoria": "Conferência",
+          "local": "Sala Marco Antônio Guimarães",
+          "imagens": [
+            {
+              "arquivo": "cartazes/conferencia.jpg",
+              "descricao": "Conferência Despertacular: Festival Despertacular e Feneis"
+            }
+          ]
         },
         {
           "inicio": "2026-10-29T17:00",
@@ -154,7 +232,7 @@
           "hora": "10h",
           "titulo": "Oficina - Hip Hop Deaf Power",
           "categoria": "Oficina",
-          "local": "Praça Central · Profs. Victor e Cristiano · carga 2h",
+          "local": "Praça Central · Profs. Victor Daniel e Cristiano Monteiro · carga 2h",
           "imagens": [
             {
               "arquivo": "cartazes/oficina_hiphop.jpg",
@@ -165,7 +243,7 @@
         {
           "inicio": "2026-10-30T13:30",
           "hora": "13h30",
-          "titulo": "Oficina - O sopro do gesto: a poética das formas animadas e encantamento pelo artista-docente",
+          "titulo": "Oficina - O Sopro e o Gesto: a poética das formas animadas e o encantamento",
           "categoria": "Oficina",
           "local": "Aquário · Profa. Natália Rigo · carga 4h",
           "imagens": [
@@ -359,6 +437,13 @@
           "local": "Mezanino e Praça Central"
         },
         {
+          "inicio": "2026-10-31T10:00",
+          "hora": "10h",
+          "titulo": "Arte Surda em Editais Públicos",
+          "categoria": "Roda de conversa",
+          "local": "Sala Marco Antônio Guimarães"
+        },
+        {
           "inicio": "2026-10-31T13:30",
           "hora": "13h30",
           "titulo": "Oficina - Arte Feminista e Sarau das Manas",
@@ -374,7 +459,7 @@
         {
           "inicio": "2026-10-31T13:30",
           "hora": "13h30",
-          "titulo": "Oficina - Performance Visual de Ritmo em Língua de Sinais",
+          "titulo": "Oficina - Pensamento Visual de Ritmo em Língua de Sinais",
           "categoria": "Oficina",
           "local": "Aquário · Prof. Cristiano Monteiro · carga 4h",
           "imagens": [
@@ -587,14 +672,14 @@
           "hora": "13h30",
           "titulo": "Batalha da Rima",
           "categoria": "Literatura",
-          "local": "Praça Central"
+          "local": "Teatro Galpão"
         },
         {
           "inicio": "2026-11-01T18:00",
           "hora": "18h",
           "titulo": "Slam Despertacular",
           "categoria": "Literatura",
-          "local": "Praça Central"
+          "local": "Teatro Galpão"
         },
         {
           "inicio": "2026-11-01T20:30",
